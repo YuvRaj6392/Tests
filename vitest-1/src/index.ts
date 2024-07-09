@@ -52,3 +52,6 @@ app.get("/sum", (req, res) => {
         answer
     })
 });
+
+////npm i -D vitest
+//"test": "vitest"
